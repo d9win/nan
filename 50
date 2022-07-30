@@ -1,0 +1,10 @@
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'dddb292707299342857acfdd01830971',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://accusationcollegeload.com/dddb292707299342857acfdd01830971/invoke.js"></scr' + 'ipt>');
+</script>
